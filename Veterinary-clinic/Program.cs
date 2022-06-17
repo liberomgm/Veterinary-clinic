@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace veterinary_clinic
+namespace Veterinary_clinic
 {
     public class Program
     {
